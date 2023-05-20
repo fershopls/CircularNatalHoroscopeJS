@@ -4,7 +4,7 @@
   "description": "",
   "main": "dist/index",
   "types": "dist/types/src/index",
-  "module": "src/index.js",
+  "module": "dist/index.js",
   "files": [
     "dist"
   ],
